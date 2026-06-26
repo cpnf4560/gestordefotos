@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+logs/
+.image_cache.json
+.DS_Store
+Thumbs.db
+
+erro.txt
