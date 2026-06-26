@@ -7,7 +7,27 @@ __pycache__/
 venv/
 logs/
 .image_cache.json
+**/.image_cache.json
 .DS_Store
 Thumbs.db
+
+# Python cache and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Editor and OS
+.vscode/
+.idea/
+desktop.ini
+
+# Local temporary files
+*.log
+*.tmp
 
 erro.txt
